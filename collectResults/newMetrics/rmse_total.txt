@@ -1,0 +1,18 @@
+Dataset $\backslash$ Method & \makecell{MC\\Dropout} & \makecell{Concrete\\Dropout} & \makecell{Deep\\Ensemble} & Evidential & \makecell{USNRT\\Ensemble} \\ \midrule
+Electrical & 29.28 & 16.77 & \textbf{14.71} & $^*$16.51 & 18.55 \\
+Conditional & 99.71 & 21.34 & \textbf{3.53} & $^*$4.36 & 9.61 \\
+Appliances & 94.37 & 90.48 & $^*$80.33 & 86.62 & \textbf{79.19} \\
+Real-time & 24.03 & 61.58 & $^*$6.75 & 12.87 & \textbf{6.05} \\
+Industry & 10.73 & 3.68 & $^*$2.52 & \textbf{2.42} & 3.24 \\
+Facebook1 & 82.54 & 390.74 & $^*$75.76 & 77.50 & \textbf{69.00} \\
+Beijing & 79.92 & 76.42 & $^*$73.06 & 76.84 & \textbf{72.50} \\
+Physicochemical & 79.48 & 78.75 & \textbf{62.98} & 71.53 & $^*$63.72 \\
+Traffic & 97.80 & 99.82 & $^*$96.76 & 96.78 & \textbf{96.26} \\
+Blog & $^*$94.82 & 313.93 & 95.53 & 102.72 & \textbf{76.58} \\
+Power & 85.74 & 82.99 & $^*$80.19 & 82.26 & \textbf{79.67} \\
+Online & 42.88 & 42.24 & $^*$10.73 & 13.01 & \textbf{10.00} \\
+Facebook2 & 84.49 & 228.33 & $^*$72.55 & 76.78 & \textbf{71.57} \\
+Year & 99.19 & 1049.22 & \textbf{80.20} & 83.38 & $^*$81.36 \\
+Query & 35.49 & 32.89 & \textbf{16.41} & 21.74 & $^*$16.63 \\
+GPU & 24.25 & 24.00 & $^*$5.89 & 6.94 & \textbf{3.89} \\
+Wave & 7.52 & 3.38 & \textbf{0.01} & 0.31 & $^*$0.05 \\ \bottomrule

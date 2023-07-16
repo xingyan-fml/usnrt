@@ -1,0 +1,18 @@
+\makecell{Dataset\\Name} & Full Name & \makecell{Sample\\Size} & \makecell{Feature\\Dimension} & \makecell{Categorical\\Variables} \\ \midrule
+Electrical & Electrical Grid Stability & 10,000 & 12 & 0\\
+Conditional & Conditional Based Maintenance & 11,933 & 15 & 0\\
+Appliances & Appliances Energy Prediction & 19,735 & 27 & 0\\
+Real-time & Real-time Election & 21,643 & 23 & 0\\
+Industry & Industry Energy Consumption & 35,040 & 9 & 3\\
+Facebook1 & Facebook Comment Volume 1 & 40,949 & 52 & 0\\
+Beijing & Beijing PM2.5 & 41,757 & 8 & 2\\
+Physicochemical & Physicochemical Properties & 45,730 & 9 & 0\\
+Traffic & Traffic Volume & 48,204 & 6 & 2\\
+Blog & Blog Feedback & 52,397 & 276 & 0\\
+Power & Power Consumption of T & 52,416 & 5 & 0\\
+Online & Online Video & 68,784 & 18 & 2\\
+Facebook2 & Facebook Comment Volume 2 & 81,312 & 52 & 0\\
+Year & Year Prediction MSD & 100,000 & 90 & 0\\
+Query & Query Analytics & 199,843 & 4 & 0\\
+GPU & GPU Kernel Performance & 241,600 & 14 & 4\\
+Wave & Wave Energy Converters & 287,999 & 48 & 0\\ \bottomrule

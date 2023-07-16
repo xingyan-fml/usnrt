@@ -1,0 +1,18 @@
+Dataset $\backslash$ Method & HNN & \makecell{Extra\\Trees} & \makecell{Random\\Forest} & USNRT & \makecell{Percentage\\Decrease} \\ \midrule
+Electrical & \textbf{7.02} & 19.33 & $^*$14.18 & 19.92 & -183.8\% \\
+Conditional & $^*$2.39 & 24.47 & 20.50 & \textbf{1.57} & 34.3\% \\
+Appliances & $^*$11.24 & 19.25 & 18.76 & \textbf{6.33} & 43.7\% \\
+Real-time & $^*$14.96 & 24.11 & 23.71 & \textbf{2.55} & 82.9\% \\
+Industry & \textbf{3.36} & 20.14 & 20.71 & $^*$3.64 & -8.5\% \\
+Facebook1 & $^*$12.53 & 18.78 & 15.29 & \textbf{9.29} & 25.9\% \\
+Beijing & $^*$4.29 & 11.77 & 8.86 & \textbf{2.23} & 48.0\% \\
+Physicochemical & \textbf{2.47} & 10.09 & 10.87 & $^*$2.56 & -3.6\% \\
+Traffic & 7.59 & \textbf{6.62} & $^*$6.89 & 7.29 & -10.1\% \\
+Blog & $^*$19.12 & 21.46 & 20.63 & \textbf{14.21} & 25.7\% \\
+Power & $^*$2.52 & 7.06 & 6.66 & \textbf{2.29} & 9.3\% \\
+Online & $^*$1.56 & 14.54 & 12.84 & \textbf{0.92} & 41.4\% \\
+Facebook2 & $^*$16.41 & 20.04 & 17.24 & \textbf{11.90} & 27.5\% \\
+Year & $^*$3.54 & 10.95 & 9.90 & \textbf{1.63} & 53.9\% \\
+Query & \textbf{0.88} & 22.36 & 19.21 & $^*$1.31 & -50.0\% \\
+GPU & \textbf{2.61} & 17.65 & 13.75 & $^*$2.98 & -14.2\% \\
+Wave & 22.38 & 18.98 & $^*$14.24 & \textbf{2.73} & 80.9\% \\ \bottomrule
